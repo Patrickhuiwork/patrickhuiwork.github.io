@@ -1,0 +1,14 @@
+{    
+    "person": {
+        "firstName":"patrick",
+        "lastName": "hui" },
+    "work": {
+        "job": "student",
+        "program": "Digital Design and Development Diploma",
+        "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiL1Iz71pz7AhWbGq0GHUW-Bg0YABAAGgJwdg&ohost=www.google.com&cid=CAASJuRoM60H_VDdjafu-MHBUosz_rtaC1897tMgYOFPmFrOynns3yOt&sig=AOD64_1SG-LyUdFroQ4tcsazGjMNZgXDvQ&q&adurl&ved=2ahUKEwjIkYf71pz7AhWzKH0KHenZBM4Q0Qx6BAgGEAE&nis=8" },
+    "study": {
+        "programs": ["Top G", "Professional E-sport Specialist", "Coding Extrodinaire"],
+        "department": "Mean Streets of Burnaby"
+    }
+}
+
